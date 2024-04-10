@@ -1,6 +1,6 @@
 {
   "name": "dynamsoft-image-processing",
-  "version": "2.0.30",
+  "version": "2.2.10",
   "description": "The Dynamsoft Image Processing Module supports a range of operations that handle various tasks related to processing digital images.",
   "main": "index.js",
   "scripts": {
@@ -50,6 +50,6 @@
   },
   "license": "SEE LICENSE IN LICENSE",
   "devDependencies": {
-    "@dynamsoft/rd2-scripts": "^0.1.4"
+    "@dynamsoft/rd2-scripts": "^0.1.8"
   }
 }
